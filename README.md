@@ -22,14 +22,5 @@ This is a guided Power BI project I completed as part of the "Microsoft Power BI
 ### 1️⃣ Exec Dashboard  
 ![Exec Dashboard](Exac%20Dashboard.png)
 
-### 2️⃣ Map  
-![Map](Map.png)
-
-### 3️⃣ Product Detail  
-![Product Details](Product%20Details.png)
-
-### 4️⃣ Customer Detail 
-![Customer Details](Customer%20Details.png)
-
 
 
