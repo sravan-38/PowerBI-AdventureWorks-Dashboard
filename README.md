@@ -18,4 +18,18 @@ This is a guided Power BI project I completed as part of the "Microsoft Power BI
 - Dynamic Slicers for drill-down
 
 ## 📷 Screenshots
-![Dashboard Screenshot 1](ExacDashboard.png)
+
+### 1️⃣ Executive Dashboard  
+![Exec Dashboard](Exac%20Dashboard.png)
+
+### 2️⃣ Region-wise Sales Map  
+![Map](Map.png)
+
+### 3️⃣ Product Performance Details  
+![Product Details](Product%20Details.png)
+
+### 4️⃣ Customer Insights  
+![Customer Details](Customer%20Details.png)
+
+
+
