@@ -18,4 +18,4 @@ This is a guided Power BI project I completed as part of the "Microsoft Power BI
 - Dynamic Slicers for drill-down
 
 ## 📷 Screenshots
-![Dashboard Screenshot 1](Exac Dashboard.png)
+![Dashboard Screenshot 1](ExacDashboard.png)
