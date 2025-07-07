@@ -22,13 +22,13 @@ This is a guided Power BI project I completed as part of the "Microsoft Power BI
 ### 1️⃣ Exec Dashboard  
 ![Exec Dashboard](Exec%20Dashboard.png)
 
-### 2️⃣ Region-wise Sales Map  
-![Sales Map](Map.png)
+### 2️⃣ Map  
+![Map](Map.png)
 
-### 3️⃣ Product Performance Details  
+### 3️⃣ Product Detail  
 ![Product Detail](Product%20Detail.png)
 
-### 4️⃣ Customer Insights  
+### 4️⃣ Customer Detail  
 ![Customer Detail](Customer%20Detail.png)
 
 
