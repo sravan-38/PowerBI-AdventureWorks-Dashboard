@@ -20,7 +20,17 @@ This is a guided Power BI project I completed as part of the "Microsoft Power BI
 ## 📷 Screenshots
 
 ### 1️⃣ Exec Dashboard  
-![Exec Dashboard](Exac%20Dashboard.png)
+![Exec Dashboard](Exec%20Dashboard.png)
+
+### 2️⃣ Region-wise Sales Map  
+![Sales Map](Map.png)
+
+### 3️⃣ Product Performance Details  
+![Product Detail](Product%20Detail.png)
+
+### 4️⃣ Customer Insights  
+![Customer Detail](Customer%20Detail.png)
+
 
 
 
